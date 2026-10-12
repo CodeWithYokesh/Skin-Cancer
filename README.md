@@ -62,8 +62,8 @@ To ensure realistic clinical generalization and address class imbalance, a stric
 ## 🖼️ Visual Evaluation Artifacts
 
 <p align="center">
-  <img src="assets/Figure_1_Confusion_Matrix.png" width="45%" alt="Confusion Matrix"/>
-  <img src="assets/ROC_Curves.png>
+  <img src="assets/Confusion_Matrix.png - Shortcut.lnk" width="45%" alt="Confusion Matrix"/>
+  <img src="assets/ROC_Curves.png" width="45%" alt="ROC_Curves"/ >
 </p>
 
 * **Confusion Matrix (Left):** Demonstrates strong diagonal classification across all classes, explicitly controlling false negative rates for Melanoma and SCC.
