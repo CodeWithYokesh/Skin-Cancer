@@ -63,7 +63,7 @@ To ensure realistic clinical generalization and address class imbalance, a stric
 
 <p align="center">
   <img src="assets/Figure_1_Confusion_Matrix.png" width="45%" alt="Confusion Matrix"/>
-  <img src="assets/Figure_2_ROC_Curves.png" width="45%" alt="ROC Curves"/>
+  <img src="assets/ROC_Curves.png>
 </p>
 
 * **Confusion Matrix (Left):** Demonstrates strong diagonal classification across all classes, explicitly controlling false negative rates for Melanoma and SCC.
@@ -71,10 +71,3 @@ To ensure realistic clinical generalization and address class imbalance, a stric
 
 ---
 
-## 🚀 How to Run & Reproduce
-
-### 1. Clone Repository & Install Dependencies
-```bash
-git clone [https://github.com/](https://github.com/)<your-username>/Skin-Lesion-Classification-ISIC2019.git
-cd Skin-Lesion-Classification-ISIC2019
-pip install -r requirements.txt
