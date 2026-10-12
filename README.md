@@ -62,7 +62,7 @@ To ensure realistic clinical generalization and address class imbalance, a stric
 ## 🖼️ Visual Evaluation Artifacts
 
 <p align="center">
-  <img src="assets/Confusion_Matrix.png - Shortcut.lnk" width="45%" alt="Confusion Matrix"/>
+  <img src="assets/Confusion_Matrix.png" width="45%" alt="Confusion Matrix"/>
   <img src="assets/ROC_Curves.png" width="45%" alt="ROC_Curves"/ >
 </p>
 
